@@ -7,11 +7,11 @@
 # 7. write code for the extraction of title,details,image url,and price and storing in dataframe and also time execution of every 1 to 100 .
 # 8.cleaning od data scraped from website.
 # 9.Making of data into json and making SOLUTION.JSON file which is uploaded in git file.
-# 10.connection of postgresql of my database. 
+# 10.connection of postgresql of my database on localserver . 
 # 11.creating of table in sql with datatype.
 # 12.writing query for Insert of data into the database.
 # 13.writing cursor execution code.
 # 14.commit of data into the database.
 # 15.Closing of connection with database.
-# 16.ingestion of data into ElasticSearch with index amazdata
+# 16.ingestion of data into ElasticSearch with index amazdata on localserver
 
