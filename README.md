@@ -1,3 +1,4 @@
+# PYTHON # VS CODE # SELENIUM # POSTGRESQL # ELASTICSEARCH
 # 1.Importing library pandas selenium time json,etc.
 # 2.write opyions for different mode headless,size.
 # 3.function for check xpath exist while scraping 
